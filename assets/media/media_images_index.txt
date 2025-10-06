@@ -1,8 +1,0 @@
-Media Images Index
-==================
-Total Images: 1
-Images: main_image_copy
-Created: 2025-10-07T02:24:45.166
-
-Image Details:
-- main_image_copy: main_image_copy
